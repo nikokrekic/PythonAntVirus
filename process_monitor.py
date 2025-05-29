@@ -15,7 +15,7 @@ import sys  # <-- For command-line argument check
 # ------------------------------------------------
 # CONFIG: Discord Webhook URL
 # ------------------------------------------------
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1345566631514079272/smM2AuhTire6YIaB01jhLAMjZpXc31Ecm0cbUF29Xr5iF6IcLlhymfhRzrfjEHJYEbW2"
+DISCORD_WEBHOOK_URL = ""
 
 DB_NAME = "process_logs.db"
 WHITELIST_FILE = "whitelist.json"
